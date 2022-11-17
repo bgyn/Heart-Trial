@@ -8,7 +8,7 @@ body{
     background-color: black;
 }
 span{
-    background: url('hearts.png');
+    background: url('head.png');
     width: 100px;
     height: 100px;
     position: absolute;
